@@ -15,8 +15,12 @@ The schedule can be found via  [link to schedule].
 Your final grade consists of three parts: the 
 
 ## Teaching materials
-We will take the book from 
 
+Books:
+
+Other references:
+
+ 
 
 
 
